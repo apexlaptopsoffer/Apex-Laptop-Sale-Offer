@@ -1,0 +1,17 @@
+{
+  "name": "apex-computers",
+  "version": "1.0.0",
+  "description": "Apex Computers — Laptops for Freshers at Supplier-Direct Rates",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.19"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.118.0"
+  }
+}
